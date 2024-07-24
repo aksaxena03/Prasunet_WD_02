@@ -14,7 +14,7 @@ A digital stopwatch application that allows users to start, stop, pause, and res
 - Responsive design
 
 ### Screenshot
-![Stopwatch](assets/images/Stopwatch.png)
+![Stopwatch](assets/images/Stopwatch.jpg)
 
 ### Technologies Used
 - HTML
